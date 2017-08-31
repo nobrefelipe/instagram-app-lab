@@ -1,0 +1,52 @@
+<section class="user-profile">
+
+  <!-- sera component separado-->
+  <section class="user-profile--main">
+
+    <!--Profile Picture-->
+    <user-profile-picture :width="'80px'" :height="'80px'"></user-profile-picture>
+
+
+    <!--Profile Stats-->
+    <div class="user--stats">
+
+      <ul>
+        <li><span>{{ userData.posts.length }}</span>posts</li>
+        <li><span>{{ userData.followers.length }}</span>followers</li>
+        <li><span>{{ userData.following.length }}</span>following</li>
+      </ul>
+
+      <button class="button-default is-full">Edit Profile</button>
+
+    </div>
+
+    <!--Profile Bio-->
+    <div class="user--bio">{{ userData.name }}<br>{{ userData.bio }}</div>
+
+  </section>
+
+
+  <!-- sera component separado? -->
+  <section class="user-profile--actions-menu">
+
+    <span class="icon" @click="switchPostsLayout('grid')"><svg role="img"><use xlink:href="/static/svg/svgstore.svg#grid-view-icon"/></svg></span>
+
+    <span class="icon" @click="switchPostsLayout('list')"><svg role="img"><use xlink:href="/static/svg/svgstore.svg#list-view-icon"/></svg></span>
+
+    <span class="icon"><svg role="img"><use xlink:href="/static/svg/svgstore.svg#location-icon"/></svg></span>
+
+    <span class="icon"><svg role="img"><use xlink:href="/static/svg/svgstore.svg#tagged-icon"/></svg></span>
+
+  </section>
+
+
+  <section class="pictures-component" :class="layout">
+
+    <pictures-component v-for="post in userPosts" :post="post"  :layout="layout"></pictures-component>
+
+  </section>
+
+
+
+</section>
+

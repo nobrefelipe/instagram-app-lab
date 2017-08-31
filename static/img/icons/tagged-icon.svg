@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>Comined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Your-Profile-Multiple-View" transform="translate(-270.000000, -231.000000)">
+            <g id="Content" transform="translate(0.000000, 76.000000)">
+                <g id="View-options" transform="translate(33.000000, 155.000000)">
+                    <g id="Comined-Shape" transform="translate(237.000000, 0.000000)">
+                        <g id="User" transform="translate(4.000000, 6.000000)">
+                            <path d="M6,4.94403597 C7.10134179,4.94403597 8,4.01949049 8,2.87201951 C8,1.72454853 7.10134179,0.800003052 6,0.800003052 C4.89865821,0.800003052 4,1.72454853 4,2.87201951 C4,4.01949049 4.89865821,4.94403597 6,4.94403597 Z" id="Oval-4" stroke="#999999"></path>
+                            <rect id="Rectangle-5" stroke="#999999" x="1.78" y="6.77356902" width="8" height="3.45286195" rx="1"></rect>
+                            <rect id="Rectangle-6" fill="#FFFFFF" x="0" y="8.40740741" width="11" height="2.59259259"></rect>
+                        </g>
+                        <path d="M0.5,5.00010618 L0.5,17.9998938 C0.5,18.8322395 1.16589822,19.5 1.99079514,19.5 L18.0092049,19.5 C18.8277745,19.5 19.5,18.8262442 19.5,17.9998938 L19.5,5.00010618 C19.5,4.1681544 18.8313572,3.5 18.002178,3.5 L12.8859578,3.5 L10.5094854,1.12633706 C10.3051243,0.922217549 9.97571451,0.917709631 9.77107274,1.1124225 L7.26174671,3.5 L2.00476282,3.5 C1.17149193,3.5 0.5,4.17066482 0.5,5.00010618 Z" id="Rectangle-62" stroke="#999999"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

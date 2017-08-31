@@ -1,0 +1,47 @@
+.icon{
+
+  float: left;
+  width: 22px;
+  height: 42px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 10px 0;
+
+  &.profile-icon{
+    width: 40px;
+    height: 40px;
+  }
+
+  svg{
+    width: 22px;
+    height: 22px;
+  }
+
+
+  &.router-link-exact-active{
+
+    svg{
+
+      path{
+
+        stroke: $blue;
+
+      }
+
+    }
+
+  }
+
+  &.heart{
+    &.active{
+      path{
+        fill: $red;
+        stroke: none;
+      }
+    }
+  }
+
+}

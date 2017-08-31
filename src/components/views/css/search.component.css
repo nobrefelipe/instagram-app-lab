@@ -1,0 +1,64 @@
+.search {
+  float: left;
+  width: 100%; }
+  .search-results {
+    float: left;
+    width: 100%; }
+  .search picture {
+    position: relative;
+    float: left;
+    width: calc( (100vw - 2px) / 3 );
+    height: calc( (100vw - 2px) / 3 );
+    margin-bottom: 1px;
+    margin-right: 1px;
+    padding-bottom: 0;
+    overflow: hidden; }
+    .search picture img {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: auto;
+      max-width: 220px;
+      min-height: 100%; }
+  .search .no-results {
+    float: left;
+    width: 100%;
+    padding: 30px;
+    text-align: center; }
+  .search .search-filters {
+    float: left;
+    width: 100%;
+    padding: 0;
+    display: flex;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1); }
+    .search .search-filters li {
+      padding: 10px;
+      font-weight: bold;
+      font-size: 12px;
+      text-align: center;
+      flex: 1; }
+      .search .search-filters li.selected {
+        color: #3897F0; }
+  .search .search-users {
+    float: left;
+    width: 100%;
+    padding: 15px 20px;
+    border-bottom: 1px solid rgba(153, 153, 153, 0.2);
+    display: flex;
+    align-items: center;
+    font-size: 12px; }
+    .search .search-users picture {
+      width: 30px;
+      height: 30px;
+      overflow: hidden;
+      border-radius: 20px;
+      margin-right: 10px; }
+      .search .search-users picture img {
+        width: 100%; }
+    .search .search-users strong {
+      margin-right: 6px; }
+    .search .search-users .user-profile-picture {
+      margin-right: 6px; }
+
+/*# sourceMappingURL=search.component.css.map */

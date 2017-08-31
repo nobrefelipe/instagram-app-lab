@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="15px" viewBox="0 0 19 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Your-Profile-Multiple-View" transform="translate(-111.000000, -234.000000)" fill="#999999">
+            <g id="Content" transform="translate(0.000000, 76.000000)">
+                <g id="View-options" transform="translate(33.000000, 155.000000)">
+                    <path d="M78,3 L80,3 L80,5 L78,5 L78,3 Z M78,9.5 L80,9.5 L80,11.5 L78,11.5 L78,9.5 Z M78,16 L80,16 L80,18 L78,18 L78,16 Z M82,10 L97,10 L97,11 L82,11 L82,10 Z M82,16.5 L97,16.5 L97,17.5 L82,17.5 L82,16.5 Z M82,3.5 L97,3.5 L97,4.5 L82,4.5 L82,3.5 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

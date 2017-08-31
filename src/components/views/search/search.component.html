@@ -1,0 +1,51 @@
+<section class="search">
+
+    <div id="search-bar" v-if="$route.name == 'Search' ">
+
+        <input type="search" placeholder="Search" autofocus v-model="input" @keyup="onSearch()">
+
+    </div>
+
+    <ul class="search-filters" id="search-filters">
+
+        <li @click="onSelectFilter('Posts', $event)" class="selected">Post Title</li>
+        <li @click="onSelectFilter('user', $event)">People</li>
+        <li @click="onSelectFilter('Tags', $event)">Tag</li>
+
+    </ul>
+
+
+    <section class="search-results">
+
+        <span class="no-results" v-if="showNoResults">No Results</span>
+
+        <router-link v-if="currentIndice == 'Posts' " v-for="post in Results" :to="post.id + '/post'">
+
+            <picture><img :src="post.imageURL" :alt="post.title"></picture>
+
+        </router-link>
+
+
+
+        <router-link v-if="currentIndice == 'user' " v-for="user in Results"  :to="'/profile/' + user.id" class="search-users">
+
+            <picture><img :src="user.pictureUrl" :alt="user.name"></picture>
+
+            <strong>{{ user.name }}</strong>
+
+        </router-link>
+
+
+        <span v-if="currentIndice == 'Tags' " v-for="tag in Results" class="search-users">
+
+            <strong @click="onSelectTag(tag.name)">#{{ tag.name }}</strong>
+
+        </span>
+
+
+    </section>
+
+
+
+</section>
+

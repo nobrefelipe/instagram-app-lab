@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400');
+@import "base/base";
+@import "global/global";
+
+
+*{
+  box-sizing: border-box;
+
+  margin: 0;
+
+  padding: 0;
+
+  list-style: none;
+
+  text-decoration: none;
+
+  outline: none !important;
+
+  color: #262626;
+
+}
+
+body{
+
+  font-family: 'Open Sans';
+
+  font-weight: 300;
+
+  color: #262626;
+
+  width: 100vw;
+
+  margin: 0;
+
+}
+
+.app-shell{
+
+  position: relative;
+  float: left;
+  width: 100vw;
+  height: calc(100vh - 100px);
+  margin-top: 50px;
+  overflow-x: hidden;
+
+  & > section{
+
+    position: absolute;
+    left: 0;
+    top: 0;
+
+  }
+
+}

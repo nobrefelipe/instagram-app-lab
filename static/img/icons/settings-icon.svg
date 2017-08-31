@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>Cog</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Your-Profile-Multiple-View" transform="translate(-287.000000, -31.000000)">
+            <g id="Navigation">
+                <g id="Cog" transform="translate(287.000000, 31.000000)">
+                    <circle id="Oval-20" stroke="#262626" stroke-width="2" cx="11.2999878" cy="11.2000008" r="7.5"></circle>
+                    <rect id="Rectangle-72" fill="#262626" x="10.25" y="0.5" width="2" height="3"></rect>
+                    <rect id="Rectangle-72-Copy" fill="#262626" transform="translate(17.230226, 4.291854) rotate(40.000000) translate(-17.230226, -4.291854) " x="16.2302259" y="2.79185427" width="2" height="3"></rect>
+                    <rect id="Rectangle-72-Copy-2" fill="#262626" transform="translate(20.150860, 9.745280) rotate(80.000000) translate(-20.150860, -9.745280) " x="19.1508598" y="8.24528002" width="2" height="3"></rect>
+                    <rect id="Rectangle-72-Copy-3" fill="#262626" transform="translate(19.299038, 15.916025) rotate(120.000000) translate(-19.299038, -15.916025) " x="18.2990381" y="14.4160246" width="2" height="3"></rect>
+                    <rect id="Rectangle-72-Copy-4" fill="#262626" transform="translate(14.452723, 19.751559) rotate(160.000000) translate(-14.452723, -19.751559) " x="13.4527228" y="18.2515591" width="2" height="3"></rect>
+                    <rect id="Rectangle-72-Copy-5" fill="#262626" transform="translate(8.152735, 19.751559) rotate(200.000000) translate(-8.152735, -19.751559) " x="7.15273504" y="18.2515591" width="2" height="3"></rect>
+                    <rect id="Rectangle-72-Copy-6" fill="#262626" transform="translate(3.299038, 15.616025) rotate(240.000000) translate(-3.299038, -15.616025) " x="2.29903811" y="14.1160254" width="2" height="3"></rect>
+                    <rect id="Rectangle-72-Copy-7" fill="#262626" transform="translate(2.150860, 9.745280) rotate(280.000000) translate(-2.150860, -9.745280) " x="1.15085981" y="8.24528002" width="2" height="3"></rect>
+                    <rect id="Rectangle-72-Copy-8" fill="#262626" transform="translate(5.130220, 3.791854) rotate(320.000000) translate(-5.130220, -3.791854) " x="4.13021975" y="2.29185427" width="2" height="3"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

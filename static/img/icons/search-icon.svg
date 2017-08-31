@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>Search</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Your-Profile-Multiple-View" transform="translate(-85.000000, -534.000000)" stroke="#242424">
+            <g id="Tab-Bar" transform="translate(0.000000, 523.000000)">
+                <g id="Search" transform="translate(85.000000, 11.000000)">
+                    <path d="M15.9224073,16.3224317 L21.0642446,21.464269 C21.0666567,21.4666811 21.066692,21.4754681 21.0710678,21.4710922 C21.0724131,21.4697469 21.0696975,21.4697219 21.0642446,21.464269 L15.9226665,16.3226909 L15.5698109,16.6451846 C13.9222778,18.1509537 11.7780604,19 9.5,19 C4.52943725,19 0.5,14.9705627 0.5,10 C0.5,5.02943725 4.52943725,1 9.5,1 C14.4705627,1 18.5,5.02943725 18.5,10 C18.5,12.2313832 17.6855861,14.3349093 16.2349664,15.9701033 L15.9224073,16.3224317 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

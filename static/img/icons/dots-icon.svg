@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="4px" viewBox="0 0 14 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>More</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Unfollowed-+-Suggested" transform="translate(-291.000000, -657.000000)" fill="#262626">
+            <g id="Content" transform="translate(0.000000, 76.000000)">
+                <g id="1x1-Photo" transform="translate(0.000000, 567.000000)">
+                    <g id="User" transform="translate(11.000000, 0.000000)">
+                        <path d="M282,17.5 C281.171573,17.5 280.5,16.8284271 280.5,16 C280.5,15.1715729 281.171573,14.5 282,14.5 C282.828427,14.5 283.5,15.1715729 283.5,16 C283.5,16.8284271 282.828427,17.5 282,17.5 Z M287,17.5 C286.171573,17.5 285.5,16.8284271 285.5,16 C285.5,15.1715729 286.171573,14.5 287,14.5 C287.828427,14.5 288.5,15.1715729 288.5,16 C288.5,16.8284271 287.828427,17.5 287,17.5 Z M292,17.5 C291.171573,17.5 290.5,16.8284271 290.5,16 C290.5,15.1715729 291.171573,14.5 292,14.5 C292.828427,14.5 293.5,15.1715729 293.5,16 C293.5,16.8284271 292.828427,17.5 292,17.5 Z" id="More"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
